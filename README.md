@@ -1,12 +1,18 @@
 # Sistema Gerenciador Acadêmico
 
-Aplicação front-end criada com React + Vite + TypeScript + Tailwind.
+Interface web desenvolvida como trabalho final da disciplina de Interação Humano-Computador (IHC). O projeto foca em uma experiência de uso simples e clara para gestão acadêmica.
 
-## Como rodar
+## 🧱 Tecnologias
+
+- React + Vite
+- TypeScript
+- Tailwind CSS
+
+## 🚀 Como rodar
 
 ```bash
 npm install
 npm run dev
-```
+````
 
-A aplicação estará disponível em `http://localhost:5173`.
+A aplicação ficará disponível em `http://localhost:5173`.
